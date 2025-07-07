@@ -1,0 +1,62 @@
+[
+  {
+    "name": "류종득",
+    "title": "디지털본부장",
+    "deeplink": "https://example.com/link10",
+    "route": "디지털본부장"
+  },
+  {
+    "name": "백상현",
+    "title": "디지털계획처장",
+    "deeplink": "https://example.com/link1",
+    "route": "디지털계획처장"
+  },
+  {
+    "name": "최우진",
+    "title": "디지털계획부장",
+    "deeplink": "https://example.com/link2",
+    "route": "디지털계획부장"
+  },
+  {
+    "name": "권봉경",
+    "title": "첨단융복합부장",
+    "deeplink": "https://example.com/link3",
+    "route": "첨단융복합부장"
+  },
+  {
+    "name": "손동윤",
+    "title": "AI데이터부장",
+    "deeplink": "https://example.com/link4",
+    "route": "AI데이터부장"
+  },
+  {
+    "name": "송권수",
+    "title": "MaaS사업부장",
+    "deeplink": "https://example.com/link5",
+    "route": "MaaS사업부장"
+  },
+  {
+    "name": "이강덕",
+    "title": "디지털관리처장",
+    "deeplink": "https://example.com/link6",
+    "route": "디지털관리처장"
+  },
+  {
+    "name": "최재억",
+    "title": "디지털관리부장",
+    "deeplink": "https://example.com/link7",
+    "route": "디지털관리부장"
+  },
+  {
+    "name": "서오주",
+    "title": "경영시스템부장",
+    "deeplink": "https://example.com/link8",
+    "route": "경영시스템부장"
+  },
+  {
+    "name": "김용진",
+    "title": "기술시스템부장",
+    "deeplink": "https://example.com/link9",
+    "route": "기술시스템부장"
+  }
+]
